@@ -1,0 +1,6 @@
+400
+{
+  "errorCode": "US-0003",
+  "errorMessage": "bad data",
+  "developerMessage": "vasya, tyt pizdec"
+}
